@@ -1,16 +1,9 @@
-# trainapp
+# Train Reservation App
 
-A new Flutter project.
+Here you can see some complex ui building technique such as booking template, ticket design etc. You can also see how I implemented autocomplete text field.
 
-## Getting Started
+Ui Inspiration taken from:  https://dribbble.com/shots/15418720-Train-Booking-App
 
-This project is a starting point for a Flutter application.
+<img src="https://user-images.githubusercontent.com/57573642/202893820-79be5ad4-ed02-4fcb-887e-b4ec290936d1.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/57573642/202893839-cf20c7c2-daf0-4330-ae3a-a6685cfc6802.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/57573642/202894054-a094d69d-3009-490f-ba21-14878c7cf95c.png" width="30%"></img> 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
